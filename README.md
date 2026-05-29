@@ -9,3 +9,7 @@
   https://translations.launchpad.net/linuxmint/latest/+pots/mintchat/fur/+filter?person=danx31
   
   https://translations.launchpad.net/linuxmint/latest/+pots/xfce4-xapp-status-plugin/fur/+filter?person=danx31
+
+- 29/05/2026: translated string Linux mint on Launchpad.
+
+  https://translations.launchpad.net/linuxmint/latest/+pots/cinnamon-screensaver/fur/+filter?person=danx31
